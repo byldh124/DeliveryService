@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bnv_home"
+        android:title="홈"
+        android:icon="@drawable/ic_baseline_house_24"/>
+    <item
+        android:id="@+id/bnv_what"
+        android:title="뭐먹지"
+        android:icon="@drawable/ic_baseline_queue_play_next_24"/>
+    <item
+        android:id="@+id/bnv_favorite"
+        android:title="찜한가게"
+        android:icon="@drawable/ic_baseline_favorite_border_24"/>
+    <item
+        android:id="@+id/bnv_order"
+        android:title="주문내역"
+        android:icon="@drawable/ic_baseline_history_edu_24"/>
+    <item
+        android:id="@+id/bnv_my_page"
+        android:title="my배민"
+        android:icon="@drawable/ic_baseline_add_reaction_24"/>
+</menu>
